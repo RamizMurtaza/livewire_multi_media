@@ -9,7 +9,7 @@ use App\Http\Controllers\Media\MediaController;
 
         Route::group(
             [
-                'prefix' => 'gallery',
+                'prefix' => '/',
                 'as' => 'media.',
             ],
             function () {

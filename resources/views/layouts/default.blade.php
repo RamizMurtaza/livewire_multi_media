@@ -9,7 +9,7 @@
     <meta name="description" content="Testing">
     <meta name="keywords" content="Testing">
     <meta name="author" content="Arslan">
-    <title> Deline Media HRM</title>
+    <title> LiveWire Upload Mulitple Images </title>
     <link rel="apple-touch-icon" href="{{asset('assets/app-assets/images/ico/apple-icon-120.png')}}">
     <link rel="shortcut icon" type="image/x-icon" href="{{asset('assets/app-assets/images/ico/favicon.ico')}}">
 
